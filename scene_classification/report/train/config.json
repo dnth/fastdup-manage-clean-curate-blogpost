@@ -1,5 +1,5 @@
 {
-    "input_dir": "scene_classification/data/seg_train/",
+    "input_dir": "scene_classification/data/train_set/",
     "work_dir": "scene_classification/report/train/",
     "test_dir": "",
     "compute": "cpu",
