@@ -15,6 +15,7 @@ Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/fastdup_mana
 ## 📂 Folders
 
 `scene_classification` - Folder with raw uncleaned images.
+
 `scene_classification_clean` - Folder with cleaned version of images and Fastdup report files.
 
 
