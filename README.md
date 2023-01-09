@@ -12,6 +12,12 @@ Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/fastdup_mana
 
 `train.ipynb` - Train a Fastai model on the original data.
 
+## 📂 Folders
+
+`scene_classification` - Folder with raw uncleaned images.
+`scene_classification_clean` - Folder with cleaned version of images and Fastdup report files.
+
+
 ## ❤️ Support Me
 If you like what you see, support me in keeping the lights on to produce more posts like this.
 
