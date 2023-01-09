@@ -5,6 +5,13 @@
 Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/fastdup_manage_clean_curate/).
 
 
+# Notebooks
+`clean.ipynb` - Demo notebook showing the functionality of Fastdup.
+
+`train_clean.ipynb` - Train a Fastai model on the clean version of the data.
+
+`train.ipynb` - Train a Fastai model on the original data.
+
 # ❤️ Support Me
 If you like what you see, support me in keeping the lights on to produce more posts like this.
 
