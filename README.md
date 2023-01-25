@@ -1,4 +1,4 @@
-# Fastdup: Manage, Clean & Curate Visual Data at Scale on a Single CPU Machine (For Free)
+# Fastdup: A Powerful Tool to Manage, Clean & Curate Visual Data at Scale on Your CPU - For Free.
 
 ![image](https://dicksonneoh.com/images/portfolio/fastdup_manage_clean_curate/post_image.png)
 
