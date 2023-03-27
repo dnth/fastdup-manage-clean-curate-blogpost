@@ -6,9 +6,10 @@ Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/fastdup_mana
 
 
 ## 📑 Notebooks
-`clean.ipynb` - Demo notebook showing the functionality of fastdup using the older V0.1 API.
 
 `clean_v1.ipynb` - Demo notebook showing the functionality of fastdup using the V1 API.
+
+`clean.ipynb` - Demo notebook showing the functionality of fastdup using the older V0.1 API.
 
 `train_clean.ipynb` - Train a Fastai model on the clean version of the data.
 
