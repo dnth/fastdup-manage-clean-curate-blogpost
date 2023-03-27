@@ -1,4 +1,4 @@
-# Fastdup: A Powerful Tool to Manage, Clean & Curate Visual Data at Scale on Your CPU - For Free.
+# fastdup: A Powerful Tool to Manage, Clean & Curate Visual Data at Scale on Your CPU - For Free.
 
 ![image](https://dicksonneoh.com/images/portfolio/fastdup_manage_clean_curate/post_image.gif)
 
@@ -6,7 +6,9 @@ Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/fastdup_mana
 
 
 ## 📑 Notebooks
-`clean.ipynb` - Demo notebook showing the functionality of Fastdup.
+`clean.ipynb` - Demo notebook showing the functionality of fastdup using the older V0.1 API.
+
+`clean_v1.ipynb` - Demo notebook showing the functionality of fastdup using the V1 API.
 
 `train_clean.ipynb` - Train a Fastai model on the clean version of the data.
 
@@ -16,7 +18,7 @@ Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/fastdup_mana
 
 `scene_classification` - Folder with raw uncleaned images.
 
-`scene_classification_clean` - Folder with cleaned version of images and Fastdup report files.
+`scene_classification_clean` - Folder with cleaned version of images and fastdup report files.
 
 ## 📞 Questions? Connect with me
 If you have any questions or feedback, please don't hesitate to reach out to me.
